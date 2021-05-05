@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ce22V3EOw9QRXP7Mh3cW1tdfc8ShyJVnkgfO/uIyCuyUppday4beTboeUItccRbyAJxw+KJ+oH6KPzpt4pP6gQ==",
+  "success": true,
+  "projectFilePath": "/home/joaopaulo/Desktop/Projects/LiteDB_Example/LiteDB_Example.csproj",
+  "expectedPackageFiles": [
+    "/home/joaopaulo/.nuget/packages/litedb/5.0.10/litedb.5.0.10.nupkg.sha512",
+    "/home/joaopaulo/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/joaopaulo/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/joaopaulo/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/joaopaulo/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/joaopaulo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/joaopaulo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
